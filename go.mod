@@ -1,4 +1,4 @@
-module github.com/mxmCherry/openrtb/v14
+module github.com/PubWise/openrtb/v14
 
 go 1.12
 
